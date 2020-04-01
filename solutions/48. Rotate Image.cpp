@@ -20,4 +20,10 @@ public:
     Time Complexity  => O(n^2)
     Space Complexity => O(n)
     
+    -----------------------------------
+    
+    optimal one :
+        Time Complexity  => O(n^2)
+        Space Complexity => O(1)
+    
 */
