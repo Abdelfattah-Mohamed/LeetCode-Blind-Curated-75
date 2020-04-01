@@ -22,7 +22,7 @@ public:
     
     -----------------------------------
     
-    optimal one :
+    optimal one : (reverse + swap by symmetric)
         Time Complexity  => O(n^2)
         Space Complexity => O(1)
     
