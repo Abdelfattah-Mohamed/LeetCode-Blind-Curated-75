@@ -21,4 +21,5 @@
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](./solutions/57.%20Insert%20Interval.cpp)|112 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
+|73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./solutions/73.%20Set%20Matrix%20Zeroes.cpp)|48 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|88 ms|
