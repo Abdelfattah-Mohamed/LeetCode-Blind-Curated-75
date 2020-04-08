@@ -29,6 +29,7 @@
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|8 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|8 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|4 ms|
+|125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./solutions/125.%20Valid%20Palindrome.cpp)|4 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./solutions/128.%20Longest%20Consecutive%20Sequence.cpp)|32 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./solutions/300.%20Longest%20Increasing%20Subsequence.cpp)|140 ms|
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./solutions/371.%20Sum%20of%20Two%20Integers.cpp)|0 ms|
