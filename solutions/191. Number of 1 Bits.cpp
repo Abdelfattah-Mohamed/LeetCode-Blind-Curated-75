@@ -4,11 +4,12 @@ public:
         int ans = 0;
         while(n) {
             if(n % 2) ans++;
-            n /= 2;
+            n >>= 1;
         }
         return ans;
     }
 };
+​
 ​
 /*
 ​
