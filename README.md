@@ -42,6 +42,7 @@
 |190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./solutions/190.%20Reverse%20Bits.cpp)|0 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|0 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20Robber.cpp)|0 ms|
+|206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|8 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./solutions/300.%20Longest%20Increasing%20Subsequence.cpp)|140 ms|
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./solutions/371.%20Sum%20of%20Two%20Integers.cpp)|0 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|88 ms|
