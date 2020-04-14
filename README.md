@@ -53,5 +53,6 @@
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|24 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./solutions/300.%20Longest%20Increasing%20Subsequence.cpp)|140 ms|
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./solutions/371.%20Sum%20of%20Two%20Integers.cpp)|0 ms|
+|424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[C++](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.cpp)|60 ms|
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](./solutions/572.%20Subtree%20of%20Another%20Tree.cpp)|32 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|88 ms|
